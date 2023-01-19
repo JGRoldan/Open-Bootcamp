@@ -1,6 +1,6 @@
 ## _Consigna_
 
-En este ejercicio practicarás las **estructuras de control**, para ello deberás crear:
+En este ejercicio practicarás las _**estructuras de control**_, para ello deberás crear:
 
 - Usando un if, crear una condición que compare si la variable numeroIf es positivo, negativo, o 0.  
   - Pista: Los números inferiores a 0 son negativos y los superiores, positivos.
@@ -17,4 +17,4 @@ En este ejercicio practicarás las **estructuras de control**, para ello deberá
 
 - Por último, para el Switch, deberás crear la variable estacion, y distintos case para las cuatro estaciones del año. Dependiendo del valor de la variable estacion se   deberá mandar un mensaje por consola informando de la estación en la que está. También habrá que poner un default para cuando el valor de la variable no sea una estación.
 
-```diff  - text in red  ```
+
