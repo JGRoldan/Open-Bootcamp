@@ -1,6 +1,6 @@
 ## _Consigna_
 
-En este ejercicio practicarás las estructuras de control, para ello deberás crear:
+En este ejercicio practicarás las **estructuras de control**, para ello deberás crear:
 
 - Usando un if, crear una condición que compare si la variable numeroIf es positivo, negativo, o 0.  
   - Pista: Los números inferiores a 0 son negativos y los superiores, positivos.
