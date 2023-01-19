@@ -2,5 +2,5 @@
 
 ### [Ejercicios de introducción](#)
 :x: Ejercicio ... (proximamente)
-- [ ] Ejercicio ... (proximamente)
-- [ ] Ejercicio ... (proximamente)
+:x: Ejercicio ... (proximamente)
+:x: Ejercicio ... (proximamente)
