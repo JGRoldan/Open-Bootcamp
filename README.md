@@ -3,6 +3,6 @@
 ## _Cursos_
 
 ### [Ejercicios de introducción](#)
-:heavy_check_mark: Ejercicio de funciones
+:heavy_check_mark: Ejercicio de funciones  
 :x: Ejercicio de condicionales (proximamente)  
 
