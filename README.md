@@ -1,6 +1,6 @@
 # Open-Bootcamp
 
 ### [Ejercicios de introducción](#)
-- [ ] Ejercicio ... (proximamente)
+:x: Ejercicio ... (proximamente)
 - [ ] Ejercicio ... (proximamente)
 - [ ] Ejercicio ... (proximamente)
