@@ -1,3 +1,4 @@
 # Open-Bootcamp
 
-### [Ejercicios de introducción](link)
+### [Ejercicios de introducción](#)
+- Ejercicio ... (proximamente)
