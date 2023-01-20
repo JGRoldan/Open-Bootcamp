@@ -1,6 +1,6 @@
 # Open-Bootcamp📌 
 
-## _Cursos Fullstack_
+## _Curso Fullstack_
 
 
 ### [Ejercicios de introducción](https://github.com/JGRoldan/Open-Bootcamp/tree/main/EjerciciosDeIntroduccion)
