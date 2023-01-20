@@ -1,4 +1,4 @@
-_Para practicar la encapsulación:_
+_Para practicar la **encapsulación**:_
 
 - Crear clase Persona.
 
