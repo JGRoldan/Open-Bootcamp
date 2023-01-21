@@ -7,6 +7,6 @@
 :heavy_check_mark: Ejercicios tema 3  
 :heavy_check_mark: Ejercicios tema 4  
 :heavy_check_mark: Ejercicios tema 8  
-:x: Ejercicios tema 9  
+:heavy_check_mark: Ejercicios tema 9  
 
 
