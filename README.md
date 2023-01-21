@@ -12,7 +12,7 @@
 ### [Python](https://github.com/JGRoldan/Open-Bootcamp/tree/main/Python)
 :heavy_check_mark: Ejercicio 1  
 :heavy_check_mark: Ejercicio 2  
-:x: Ejercicio 3  
+:heavy_check_mark: Ejercicio 3 (IMC)   
 :x: Ejercicio 4  
 :x: Ejercicio 5  
 :x: Ejercicio 6  
