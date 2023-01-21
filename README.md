@@ -10,3 +10,4 @@
 :heavy_check_mark: Ejercicios tema 9  
 
 ### [Python](https://github.com/JGRoldan/Open-Bootcamp/tree/main/Python)
+:heavy_check_mark: Ejercicio 1  
