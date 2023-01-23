@@ -18,7 +18,7 @@
   :heavy_check_mark: Ejercicio 2  
   :heavy_check_mark: Ejercicio 3 (IMC)   
   :heavy_check_mark: Ejercicio 4 (Cuenta regresiva 100 a 1)  
-  :x: Ejercicio 5  
+  :heavy_check_mark: Ejercicio 5 (Año bisiesto)   
   :x: Ejercicio 6  
   :x: Ejercicio 7  
   :x: Ejercicio 8  
