@@ -20,8 +20,8 @@
   :heavy_check_mark: Ejercicio 4 (Cuenta regresiva 100 a 1)  
   :heavy_check_mark: Ejercicio 5 (Año bisiesto)   
   :heavy_check_mark: Ejercicio 6 (Clase, Herencia, Objetos)  
-  :x: Ejercicio 7  
-  :x: Ejercicio 8  
+  :heavy_check_mark: Ejercicio 7 (Operaciones basicas de calculadora - modulos)  
+  :heavy_check_mark: Ejercicio 8 (Modulo time)   
   :x: Ejercicio 9  
   :x: Ejercicio 10  
   :x: Ejercicio 11  
