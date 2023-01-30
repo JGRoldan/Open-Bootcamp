@@ -24,8 +24,8 @@
   :heavy_check_mark: Ejercicio 8 (Modulo time)   
   :heavy_check_mark: Ejercicio 9 (Lista ordenada y sin repetidos)  
   :heavy_check_mark: Ejercicio 10 (Filter y reduce)  
-  :x: Ejercicio 11  
-  :x: Ejercicio 12  
+  :heavy_check_mark: Ejercicio 11 (GUI)  
+  :x: Ejercicio 12 (GUI)  
   :x: Ejercicio 13  
   :x: Ejercicio 14  
   :x: Ejercicio 15  
