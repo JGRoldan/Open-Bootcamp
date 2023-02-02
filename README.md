@@ -28,7 +28,4 @@
   :heavy_check_mark: Ejercicio 12 (GUI)  
   :heavy_check_mark: Ejercicio 13 (Base de Datos)  
   :x: Ejercicio 14  
-  :x: Ejercicio 15  
-  :x: Ejercicio 16  
-  :x: Ejercicio 17  
 </details>
