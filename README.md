@@ -26,7 +26,7 @@
   :heavy_check_mark: Ejercicio 10 (Filter y reduce)  
   :heavy_check_mark: Ejercicio 11 (GUI)  
   :heavy_check_mark: Ejercicio 12 (GUI)  
-  :x: Ejercicio 13  
+  :heavy_check_mark: Ejercicio 13 (Base de Datos)  
   :x: Ejercicio 14  
   :x: Ejercicio 15  
   :x: Ejercicio 16  
