@@ -27,5 +27,5 @@
   :heavy_check_mark: Ejercicio 11 (GUI)  
   :heavy_check_mark: Ejercicio 12 (GUI)  
   :heavy_check_mark: Ejercicio 13 (Base de Datos)  
-  :x: Ejercicio 14  
+  :heavy_check_mark: Ejercicio 14 (Introducción a Django)  
 </details>
