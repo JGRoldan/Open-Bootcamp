@@ -29,3 +29,24 @@
   :heavy_check_mark: Ejercicio 13 (Base de Datos)  
   :heavy_check_mark: Ejercicio 14 (Introducción a Django)  
 </details>
+
+### [HTML-CSS]()
+
+<details>
+<summary> Ejercicios </summary>
+
+  :x: Ejercicio 1  
+  :x: Ejercicio 2  
+  :x: Ejercicio 3  
+  :x: Ejercicio 4  
+  :x: Ejercicio 5  
+  :x: Ejercicio 6  
+  :x: Ejercicio 7  
+  :x: Ejercicio 8  
+  :x: Ejercicio 9  
+  :x: Ejercicio 10  
+  :x: Ejercicio 11  
+  :x: Ejercicio 12  
+  :x: Ejercicio 13  
+  :x: Ejercicio 14  
+</details>
