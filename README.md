@@ -38,7 +38,7 @@
   :heavy_check_mark: Ejercicio 1  
   :heavy_check_mark: Ejercicio 2  
   :heavy_check_mark: Ejercicio 3  
-  :x: Ejercicio 4  
+  :heavy_check_mark: Ejercicio 4  
   :x: Ejercicio 5  
   :x: Ejercicio 6  
   :x: Ejercicio 7  
