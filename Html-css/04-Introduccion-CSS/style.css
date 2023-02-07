@@ -1,0 +1,13 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} */
+
+#elemento-1{
+    color:red;
+}
+
+ul #elemento-1{
+    font-size: 2rem;
+}
