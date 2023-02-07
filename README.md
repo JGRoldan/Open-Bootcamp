@@ -30,7 +30,7 @@
   :heavy_check_mark: Ejercicio 14 (Introducción a Django)  
 </details>
 
-### [HTML-CSS]()
+### [HTML-CSS](https://github.com/JGRoldan/Open-Bootcamp/tree/main/Html-css)
 
 <details>
 <summary> Ejercicios </summary>
@@ -40,7 +40,7 @@
   :heavy_check_mark: Ejercicio 3  
   :heavy_check_mark: Ejercicio 4  
   :heavy_check_mark: Ejercicio 5  
-  :x: Ejercicio 6  
+  :heavy_check_mark: Ejercicio 6  
   :x: Ejercicio 7  
   :x: Ejercicio 8  
   :x: Ejercicio 9  

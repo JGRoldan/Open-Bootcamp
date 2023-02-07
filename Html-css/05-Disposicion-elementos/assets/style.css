@@ -1,0 +1,28 @@
+*  {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins'
+}
+h1{
+    text-align: center;
+}
+.flex{
+    width: 80%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+.flex img{
+    width: 300px;
+    aspect-ratio: 5/4;
+    transition: .5s ease opacity;
+}
+
+.flex img:hover{
+    cursor: pointer;
+    opacity: .5;
+}
