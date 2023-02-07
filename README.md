@@ -4,49 +4,50 @@
 
 
 ### [Ejercicios de introducción](https://github.com/JGRoldan/Open-Bootcamp/tree/main/EjerciciosDeIntroduccion)
-:heavy_check_mark: Ejercicios tema 3  
-:heavy_check_mark: Ejercicios tema 4  
-:heavy_check_mark: Ejercicios tema 8  
-:heavy_check_mark: Ejercicios tema 9  
+
+| # | Ejercicios | :clipboard: |
+| :--: | :--: | :--: |
+| **01**  | Ejercicios tema 3 | :heavy_check_mark: |
+| **02**  | Ejercicios tema 4  | :heavy_check_mark: |
+| **03**  | Ejercicios tema 8  | :heavy_check_mark: |
+| **04**  | Ejercicios tema 9  | :heavy_check_mark: |
+
 
 ### [Python](https://github.com/JGRoldan/Open-Bootcamp/tree/main/Python)
 
-<details>
-<summary> Ejercicios </summary>
+| # | Ejercicios | :clipboard: |
+| :--: | -- | :--: |
+| **01**  | Ejercicios tema 1 | :heavy_check_mark: |
+| **02**  | Ejercicios tema 2  | :heavy_check_mark: |
+| **03**  | IMC  | :heavy_check_mark: |
+| **04**  | Cuenta regresiva 100 a 1  | :heavy_check_mark: |
+| **05**  | Año bisiesto  | :heavy_check_mark: |
+| **06**  | Clase, Herencia, Objetos  | :heavy_check_mark: |
+| **07**  | Operaciones basicas de calculadora - modulos  | :heavy_check_mark: |
+| **08**  | Modulo time  | :heavy_check_mark: |
+| **09**  | Lista ordenada y sin repetidos  | :heavy_check_mark: |
+| **10**  | Filter y reduce  | :heavy_check_mark: |
+| **11**  | GUI  | :heavy_check_mark: |
+| **12**  | GUI  | :heavy_check_mark: |
+| **13**  | Base de Datos  | :heavy_check_mark: |
+| **14**  | Introducción a Django  | :heavy_check_mark: |
 
-  :heavy_check_mark: Ejercicio 1  
-  :heavy_check_mark: Ejercicio 2  
-  :heavy_check_mark: Ejercicio 3 (IMC)   
-  :heavy_check_mark: Ejercicio 4 (Cuenta regresiva 100 a 1)  
-  :heavy_check_mark: Ejercicio 5 (Año bisiesto)   
-  :heavy_check_mark: Ejercicio 6 (Clase, Herencia, Objetos)  
-  :heavy_check_mark: Ejercicio 7 (Operaciones basicas de calculadora - modulos)  
-  :heavy_check_mark: Ejercicio 8 (Modulo time)   
-  :heavy_check_mark: Ejercicio 9 (Lista ordenada y sin repetidos)  
-  :heavy_check_mark: Ejercicio 10 (Filter y reduce)  
-  :heavy_check_mark: Ejercicio 11 (GUI)  
-  :heavy_check_mark: Ejercicio 12 (GUI)  
-  :heavy_check_mark: Ejercicio 13 (Base de Datos)  
-  :heavy_check_mark: Ejercicio 14 (Introducción a Django)  
-</details>
 
 ### [HTML-CSS](https://github.com/JGRoldan/Open-Bootcamp/tree/main/Html-css)
 
-<details>
-<summary> Ejercicios </summary>
-
-  :heavy_check_mark: Ejercicio 1  
-  :heavy_check_mark: Ejercicio 2  
-  :heavy_check_mark: Ejercicio 3  
-  :heavy_check_mark: Ejercicio 4  
-  :heavy_check_mark: Ejercicio 5  
-  :heavy_check_mark: Ejercicio 6  
-  :heavy_check_mark: Ejercicio 7  
-  :x: Ejercicio 8  
-  :x: Ejercicio 9  
-  :x: Ejercicio 10  
-  :x: Ejercicio 11  
-  :x: Ejercicio 12  
-  :x: Ejercicio 13  
-  :x: Ejercicio 14  
-</details>
+| # | Ejercicios | :clipboard: |
+| :--: | -- | :--: |
+| **01**  | Introducción HTML | :heavy_check_mark: |
+| **02**  | Formularios y tablas  | :heavy_check_mark: |
+| **03**  | Multimedia  | :heavy_check_mark: |
+| **04**  | Introducción CSS  | :heavy_check_mark: |
+| **05**  | Disposición de elementos  | :heavy_check_mark: |
+| **06**  | Anidación selectores  | :heavy_check_mark: |
+| **07**  | Estilos para formularios  | :x: |
+| **08**  | Bootstrap  | :x: |
+| **09**  | Animaciones  | :x: |
+| **10**  | Responsive  | :x: |
+| **11**  | Grid - Bootstrap  | :x: |
+| **12**  | Bootstrap V.2  | :x: |
+| **13**  | SASS  | :x: |
+| **14**  | Proyecto Final  | :x: |
