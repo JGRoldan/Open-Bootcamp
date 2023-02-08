@@ -43,7 +43,7 @@
 | **04**  | Introducción CSS  | :heavy_check_mark: |
 | **05**  | Disposición de elementos  | :heavy_check_mark: |
 | **06**  | Anidación selectores  | :heavy_check_mark: |
-| **07**  | Estilos para formularios  | :x: |
+| **07**  | Estilos para formularios  | :heavy_check_mark: |
 | **08**  | Bootstrap  | :x: |
 | **09**  | Animaciones  | :x: |
 | **10**  | Responsive  | :x: |
