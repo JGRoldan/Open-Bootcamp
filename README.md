@@ -45,7 +45,7 @@
 | **06**  | Anidación selectores  | :heavy_check_mark: |
 | **07**  | Estilos para formularios  | :heavy_check_mark: |
 | **08**  | Bootstrap  | :heavy_check_mark: |
-| **09**  | Animaciones  | :x: |
+| **09**  | Animaciones  | :heavy_check_mark: |
 | **10**  | Responsive  | :x: |
 | **11**  | Grid - Bootstrap  | :x: |
 | **12**  | Bootstrap V.2  | :x: |
