@@ -13,7 +13,7 @@
 | **04**  | Ejercicios tema 9  | :heavy_check_mark: |
 
 
-### [Python](https://github.com/JGRoldan/Open-Bootcamp/tree/main/Python)
+### [Python](https://github.com/JGRoldan/Open-Bootcamp/tree/main/Python)  <img src="https://user-images.githubusercontent.com/71336562/217598315-24851986-a2de-4e42-8d88-00c79a6e1cba.png" alt="Python logo" style="width: 30px; height: 30px;"/>
 
 | # | Ejercicios | :clipboard: |
 | :--: | -- | :--: |
@@ -33,7 +33,7 @@
 | **14**  | Introducción a Django  | :heavy_check_mark: |
 
 
-### [HTML-CSS](https://github.com/JGRoldan/Open-Bootcamp/tree/main/Html-css)
+### [HTML-CSS](https://github.com/JGRoldan/Open-Bootcamp/tree/main/Html-css)  <img src="https://user-images.githubusercontent.com/71336562/217598861-54088bbd-fc43-4aaa-afb7-1a7c2d91e3d2.png" alt="Html logo" style="width: 30px; height: 30px;"/>  <img src="https://user-images.githubusercontent.com/71336562/217598865-53d4f7ab-a030-4842-8100-742d4c134f93.svg" alt="Css logo" style="width: 30px; height: 30px;"/>  <img src="https://user-images.githubusercontent.com/71336562/217598874-17a22587-6468-45fa-8511-87c933f23cff.svg" alt="Bootstrap logo" style="width: 30px; height: 30px;"/>
 
 | # | Ejercicios | :clipboard: |
 | :--: | -- | :--: |
