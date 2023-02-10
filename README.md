@@ -47,7 +47,7 @@
 | **08**  | Bootstrap  | :heavy_check_mark: |
 | **09**  | Animaciones  | :heavy_check_mark: |
 | **10**  | Responsive  | :heavy_check_mark: |
-| **11**  | Grid - Bootstrap  | :x: |
+| **11**  | Grid - Bootstrap  | :heavy_check_mark: |
 | **12**  | Bootstrap V.2  | :x: |
 | **13**  | SASS  | :x: |
 | **14**  | Proyecto Final  | :x: |
