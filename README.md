@@ -50,3 +50,29 @@
 | **11**  | Grid - Bootstrap  | :heavy_check_mark: |
 | **12**  | Bootstrap V.2  | :heavy_check_mark: |
 | **13**  | Proyecto Final  | :heavy_check_mark: |
+
+
+### [Javascript]()  <img src="https://user-images.githubusercontent.com/71336562/217598871-d4d06e6a-bcdb-4b26-898d-d5c147e71bb7.png" alt="Javascript logo" style="width: 30px; height: 30px;"/>  
+
+| # | Ejercicios | :clipboard: |
+| :--: | -- | :--: |
+| **01**  | Proximamente... | :x: |
+| **02**  | Proximamente...  | :x: |
+| **03**  | Proximamente...  | :x: |
+| **04**  | Proximamente...  | :x: |
+| **05**  | Proximamente...  | :x: |
+| **06**  | Proximamente...  | :x: |
+| **07**  | Proximamente...  | :x: |
+| **08**  | Proximamente...  | :x: |
+| **09**  | Proximamente...  | :x: |
+| **10**  | Proximamente...  | :x: |
+| **11**  | Proximamente...  | :x: |
+| **12**  | Proximamente...  | :x: |
+| **13**  | Proximamente...  | :x: |
+| **14**  | Proximamente...  | :x: |
+| **15**  | Proximamente...  | :x: |
+| **16**  | Proximamente...  | :x: |
+| **17**  | Proximamente...  | :x: |
+| **18**  | Proximamente...  | :x: |
+| **19**  | Proximamente...  | :x: |
+| **20**  | Proximamente...  | :x: |
