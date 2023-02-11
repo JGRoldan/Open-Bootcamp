@@ -49,5 +49,4 @@
 | **10**  | Responsive  | :heavy_check_mark: |
 | **11**  | Grid - Bootstrap  | :heavy_check_mark: |
 | **12**  | Bootstrap V.2  | :heavy_check_mark: |
-| **13**  | SASS  | :x: |
-| **14**  | Proyecto Final  | :x: |
+| **13**  | Proyecto Final  | :heavy_check_mark: |
