@@ -62,7 +62,7 @@
 | **04**  | Strings  | :heavy_check_mark: |
 | **05**  | Numbers  | :heavy_check_mark: |
 | **06**  | Array  | :heavy_check_mark: |
-| **07**  | Sets & Objects  | :x: |
+| **07**  | Sets & Objects  | :heavy_check_mark: |
 | **08**  | Function  | :x: |
 | **09**  | Error  | :x: |
 | **10**  | Module  | :x: |
