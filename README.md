@@ -52,12 +52,12 @@
 | **13**  | Proyecto Final  | :heavy_check_mark: |
 
 
-### [Javascript]()  <img src="https://user-images.githubusercontent.com/71336562/217598871-d4d06e6a-bcdb-4b26-898d-d5c147e71bb7.png" alt="Javascript logo" style="width: 30px; height: 30px;"/>  
+### [Javascript](https://github.com/JGRoldan/Open-Bootcamp/tree/main/Javascript)  <img src="https://user-images.githubusercontent.com/71336562/217598871-d4d06e6a-bcdb-4b26-898d-d5c147e71bb7.png" alt="Javascript logo" style="width: 30px; height: 30px;"/>  
 
 | # | Ejercicios | :clipboard: |
 | :--: | -- | :--: |
 | **01**  | Introducción Node| :heavy_check_mark: |
-| **02**  | Proximamente...  | :x: |
+| **02**  | Tipos de datos  | :heavy_check_mark: |
 | **03**  | Proximamente...  | :x: |
 | **04**  | Proximamente...  | :x: |
 | **05**  | Proximamente...  | :x: |
