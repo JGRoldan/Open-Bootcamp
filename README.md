@@ -61,18 +61,15 @@
 | **03**  | Estructuras de control  | :heavy_check_mark: |
 | **04**  | Strings  | :heavy_check_mark: |
 | **05**  | Numbers  | :heavy_check_mark: |
-| **06**  | Proximamente...  | :x: |
-| **07**  | Proximamente...  | :x: |
-| **08**  | Proximamente...  | :x: |
-| **09**  | Proximamente...  | :x: |
-| **10**  | Proximamente...  | :x: |
-| **11**  | Proximamente...  | :x: |
-| **12**  | Proximamente...  | :x: |
-| **13**  | Proximamente...  | :x: |
-| **14**  | Proximamente...  | :x: |
+| **06**  | Array  | :heavy_check_mark: |
+| **07**  | Sets & Objects  | :x: |
+| **08**  | Function  | :x: |
+| **09**  | Error  | :x: |
+| **10**  | Module  | :x: |
+| **11**  | POO  | :x: |
+| **12**  | Debugger  | :x: |
+| **13**  | Eslint  | :x: |
+| **14**  | Event handling  | :x: |
 | **15**  | Proximamente...  | :x: |
 | **16**  | Proximamente...  | :x: |
 | **17**  | Proximamente...  | :x: |
-| **18**  | Proximamente...  | :x: |
-| **19**  | Proximamente...  | :x: |
-| **20**  | Proximamente...  | :x: |
