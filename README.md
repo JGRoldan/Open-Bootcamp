@@ -60,7 +60,7 @@
 | **02**  | Tipos de datos  | :heavy_check_mark: |
 | **03**  | Estructuras de control  | :heavy_check_mark: |
 | **04**  | Strings  | :heavy_check_mark: |
-| **05**  | Proximamente...  | :x: |
+| **05**  | Numbers  | :heavy_check_mark: |
 | **06**  | Proximamente...  | :x: |
 | **07**  | Proximamente...  | :x: |
 | **08**  | Proximamente...  | :x: |
