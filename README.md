@@ -56,7 +56,7 @@
 
 | # | Ejercicios | :clipboard: |
 | :--: | -- | :--: |
-| **01**  | Proximamente... | :x: |
+| **01**  | Introducción Node| :heavy_check_mark: |
 | **02**  | Proximamente...  | :x: |
 | **03**  | Proximamente...  | :x: |
 | **04**  | Proximamente...  | :x: |
