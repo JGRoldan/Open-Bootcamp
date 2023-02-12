@@ -58,7 +58,7 @@
 | :--: | -- | :--: |
 | **01**  | Introducción Node| :heavy_check_mark: |
 | **02**  | Tipos de datos  | :heavy_check_mark: |
-| **03**  | Proximamente...  | :x: |
+| **03**  | Estructuras de control  | :heavy_check_mark: |
 | **04**  | Proximamente...  | :x: |
 | **05**  | Proximamente...  | :x: |
 | **06**  | Proximamente...  | :x: |
