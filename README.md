@@ -63,7 +63,7 @@
 | **05**  | Numbers  | :heavy_check_mark: |
 | **06**  | Array  | :heavy_check_mark: |
 | **07**  | Sets & Objects  | :heavy_check_mark: |
-| **08**  | Function  | :x: |
+| **08**  | Function  | :heavy_check_mark: |
 | **09**  | Error  | :x: |
 | **10**  | Module  | :x: |
 | **11**  | POO  | :x: |
