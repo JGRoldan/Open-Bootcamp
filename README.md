@@ -65,7 +65,7 @@
 | **07**  | Sets & Objects  | :heavy_check_mark: |
 | **08**  | Function  | :heavy_check_mark: |
 | **09**  | Error  | :heavy_check_mark: |
-| **10**  | Module  | :x: |
+| **10**  | Module  | :heavy_check_mark: |
 | **11**  | POO  | :x: |
 | **12**  | Debugger  | :x: |
 | **13**  | Eslint  | :x: |
