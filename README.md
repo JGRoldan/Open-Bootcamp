@@ -68,8 +68,8 @@
 | **10**  | Module  | :heavy_check_mark: |
 | **11**  | POO  | :heavy_check_mark: |
 | **12**  | Debugger  | :heavy_check_mark: |
-| **13**  | Eslint  | :x: |
-| **14**  | Event handling  | :x: |
+| **13**  | Eslint  | :heavy_check_mark: |
+| **14**  | Event handling  | :heavy_check_mark: |
 | **15**  | Proximamente...  | :x: |
 | **16**  | Proximamente...  | :x: |
 | **17**  | Proximamente...  | :x: |
