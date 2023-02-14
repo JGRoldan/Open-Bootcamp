@@ -72,4 +72,4 @@
 | **14**  | Event handling  | :heavy_check_mark: |
 | **15**  | Cookies - Local Storage - Session Storage   | :heavy_check_mark: |
 | **16**  | Drag & Drop  | :heavy_check_mark: |
-| **17**  | Geolocation Api  | :x: |
+| **17**  | Geolocation Api  | :heavy_check_mark: |
