@@ -70,6 +70,6 @@
 | **12**  | Debugger  | :heavy_check_mark: |
 | **13**  | Eslint  | :heavy_check_mark: |
 | **14**  | Event handling  | :heavy_check_mark: |
-| **15**  | Proximamente...  | :x: |
-| **16**  | Proximamente...  | :x: |
-| **17**  | Proximamente...  | :x: |
+| **15**  | Cookies - Local Storage - Session Storage   | :heavy_check_mark: |
+| **16**  | Drag & Drop  | :x: |
+| **17**  | Geolocation Api  | :x: |
