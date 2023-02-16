@@ -73,3 +73,15 @@
 | **15**  | Cookies - Local Storage - Session Storage   | :heavy_check_mark: |
 | **16**  | Drag & Drop  | :heavy_check_mark: |
 | **17**  | Geolocation Api  | :heavy_check_mark: |
+
+
+### [Java Basico]()  <img src="https://user-images.githubusercontent.com/71336562/217598872-31331ae0-92d3-4283-86cd-1be7714e8769.png" alt="Java logo" style="width: 60px; height: 70px;"/>
+
+| # | Ejercicios | :clipboard: |
+| :--: | -- | :--: |
+| **01**  | Ejercicio 1| :x: |
+| **02**  | Ejercicio 2  | :x: |
+| **03**  | Ejercicio 3  | :x: |
+| **04**  | Ejercicio 4  | :x: |
+| **05**  | Ejercicio 5  | :x: |
+| **07-08-09**  | Ejercicio 7-8-9  | :x: |
