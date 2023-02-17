@@ -79,7 +79,7 @@
 
 | # | Ejercicios | :clipboard: |
 | :--: | -- | :--: |
-| **01**  | Ejercicio 1| :x: |
+| **01**  | Ejercicio 1| :heavy_check_mark: |
 | **02**  | Ejercicio 2  | :x: |
 | **03**  | Ejercicio 3  | :x: |
 | **04**  | Ejercicio 4  | :x: |
