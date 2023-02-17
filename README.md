@@ -75,7 +75,7 @@
 | **17**  | Geolocation Api  | :heavy_check_mark: |
 
 
-### [Java Basico]()  <img src="https://user-images.githubusercontent.com/71336562/217598872-31331ae0-92d3-4283-86cd-1be7714e8769.png" alt="Java logo" style="width: 60px; height: 70px;"/>
+### [Java Basico](https://github.com/JGRoldan/Open-Bootcamp/tree/main/JavaBasico)  <img src="https://user-images.githubusercontent.com/71336562/217598872-31331ae0-92d3-4283-86cd-1be7714e8769.png" alt="Java logo" style="width: 60px; height: 70px;"/>
 
 | # | Ejercicios | :clipboard: |
 | :--: | -- | :--: |
