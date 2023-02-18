@@ -83,5 +83,5 @@
 | **02**  | Ejercicio 2  | :heavy_check_mark: |
 | **03**  | Ejercicio 3  | :heavy_check_mark: |
 | **04**  | Ejercicio 4  | :heavy_check_mark: |
-| **05**  | Ejercicio 5  | :x: |
+| **05**  | Ejercicio 5  | :heavy_check_mark: |
 | **07-08-09**  | Ejercicio 7-8-9  | :x: |
